@@ -1,1 +1,2 @@
 # ERC20Token
+合约地址：0x8f2c72056b3fef90d07aa7db86dccfc0af3270a8
